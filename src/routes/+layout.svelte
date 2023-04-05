@@ -19,11 +19,15 @@
 		</a>
 		<!-- Nav Links -->
 		<ul class="hidden md:flex px-4 mx-auto font-semibold font-heading space-x-12">
-			<li><a data-sveltekit-preload-data class="hover:text-gray-200" href="/">Home</a></li>
+			<li>
+				<a data-sveltekit-preload-data class="hover:text-gray-200" href="/">Home</a>
+			</li>
 			<li>
 				<a data-sveltekit-preload-data class="hover:text-gray-200" href="/product">Product</a>
 			</li>
-			<li><a data-sveltekit-preload-data class="hover:text-gray-200" href="/movie">Movie</a></li>
+			<li>
+				<a data-sveltekit-preload-data class="hover:text-gray-200" href="/recipes">Recipes</a>
+			</li>
 		</ul>
 	</div>
 	<!-- Responsive navbar -->
